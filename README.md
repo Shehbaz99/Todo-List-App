@@ -31,12 +31,14 @@ Create your feature branch (git checkout -b feature/your-feature)
 Commit your changes (git commit -am 'Add some feature')
 Push to the branch (git push origin feature/your-feature)
 Create a new Pull Request
-Authors
+
+#Authors
 Shehbaz Hussain
-License
+
+#License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+#Acknowledgments
 This app was inspired by the need for a simple and efficient task management tool.
 Special thanks to the Flutter community for providing helpful resources and libraries.
 
